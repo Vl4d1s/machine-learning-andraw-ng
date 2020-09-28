@@ -8,13 +8,11 @@ This repository contains my programming assignments for Andrew Ng's Coursera Cla
 This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
 Topics include: 
 
-1. **Supervised learning:** parametric/non-parametric algorithms, support vector machines, kernels, neural networks.
-2. **Unsupervised learning:** clustering, dimensionality reduction, recommender systems, deep learning. 
-3. **Best practices in machine learning:** bias/variance theory; innovation process in machine learning and AI. 
+1. **Supervised learning:** linear regression, logistic regression, Neural Networks
+2. **Unsupervised learning:** 
 
 ## Programming Assignments
-
-There were 8 programming exercises for the course covering the following topics:
+There will 8 programming exercises for the course covering the following topics:
 
 - Exercise 1 - Linear Regression
 - Exercise 2 - Logistic Regression
